@@ -862,6 +862,13 @@
   "BABY_NAMES_URL": {
 	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/let-the-music-play-and-inspire-baby-names",
 	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-meaning-spiritual"
-  
+  },
+  "ASK_A_MIDWIFE": {  
+	"AskMidwifeTitle": "Ask a Midwife",
+	"AskMidwifeMOB": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7a901b75-1f33-435b-bc93-5bf1c61620fd.png",
+	"AskMidwifeDTP": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/55784eeb-8390-4888-9a7a-96cfa7d933fc.png",
+	"AskMidwifeURL": "https://link.bounty.com/Midwife-Chat"
+
+
  }
 }
