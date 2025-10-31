@@ -776,39 +776,39 @@
 
 	},
   "TRENDING_URL": {	
-	"Tri1_1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/first-trimester-pregnancy-limbo",
-	"Tri1_2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
-	"Tri1_3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements",
-	"Tri2_1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
-	"Tri2_2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements",
-	"Tri2_3": "http://www.bounty.com/pregnancy-and-birth/baby-names/top-baby-names/what-your-baby-name-says-about-you",
-	"Tri3_1": "http://www.bounty.com/pregnancy-and-birth/birth/in-labour/the-untold-truths-about-birth-all-mums-need-to-know",
-	"Tri3_2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-to-do-list",
-	"Tri3_3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/youre-in-your-third-trimester-when"
+	"Tri11": "http://www.bounty.com/pregnancy-and-birth/pregnancy/first-trimester-pregnancy-limbo",
+	"Tri12": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
+	"Tri13": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements",
+	"Tri21": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
+	"Tri22": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements",
+	"Tri23": "http://www.bounty.com/pregnancy-and-birth/baby-names/top-baby-names/what-your-baby-name-says-about-you",
+	"Tri31": "http://www.bounty.com/pregnancy-and-birth/birth/in-labour/the-untold-truths-about-birth-all-mums-need-to-know",
+	"Tri32": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-to-do-list",
+	"Tri33": "http://www.bounty.com/pregnancy-and-birth/pregnancy/youre-in-your-third-trimester-when"
 
 	},
   "TRENDING_IMAGE": {	
-	"Tri1_1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/a3eedf63-c85a-4e47-9418-53a5cb508469.jpeg",
-	"Tri1_2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
-	"Tri1_3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg",
-	"Tri2_1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
-	"Tri2_2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg",
-	"Tri2_3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/485a2fb3-7f61-4013-b9fa-475fcce395b5.jpeg",
-	"Tri3_1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/3276c4a1-0175-4cf0-a220-71848b02e9dd.jpeg",
-	"Tri3_2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/3c36b479-371c-45fa-9970-790e006325f4.png",
-	"Tri3_3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/8270f063-626f-4832-ab88-0297e7324695.jpeg"
+	"Tri11": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/a3eedf63-c85a-4e47-9418-53a5cb508469.jpeg",
+	"Tri12": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
+	"Tri13": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg",
+	"Tri21": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
+	"Tri22": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg",
+	"Tri23": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/485a2fb3-7f61-4013-b9fa-475fcce395b5.jpeg",
+	"Tri31": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/3276c4a1-0175-4cf0-a220-71848b02e9dd.jpeg",
+	"Tri32": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/3c36b479-371c-45fa-9970-790e006325f4.png",
+	"Tri33": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/8270f063-626f-4832-ab88-0297e7324695.jpeg"
 
 	},
   "TRENDING_TITLE": {	
-	"Tri1_1": "First_trimester_pregnancy_limbo",
-	"Tri1_2": "What_no_one_tells_you_about_the_first_12_weeks_of_pregnancy",
-	"Tri1_3": "Unusual_pregnancy_announcements",
-	"Tri2_1": "What_no_one_tells_you_about_the_first_12_weeks_of_pregnancy",
-	"Tri2_2": "Unusual_pregnancy_announcements",
-	"Tri2_3": "what_your_baby_name_choice_says_about_you",
-	"Tri3_1": "The_untold_truths_about_birth",
-	"Tri3_2": "your_pregnancy_to_do_list",
-	"Tri3_3": "Youre_in_your_third_trimester_when"
+	"Tri11": "First trimester pregnancy limbo",
+	"Tri12": "What no one tells you about the first 12 weeks of pregnancy",
+	"Tri13": "Unusual pregnancy announcements",
+	"Tri21": "What no one tells you about the first 12 weeks of pregnancy",
+	"Tri22": "Unusual pregnancy announcements",
+	"Tri23": "What your baby name choice says about you",
+	"Tri31": "The untold truths about birth",
+	"Tri32": "Your pregnancy to do list",
+	"Tri33": "You're in your third trimester when..."
   
  }
 }
