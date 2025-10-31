@@ -848,6 +848,20 @@
 	"Prew38": "Tri3",
 	"Prew39": "Tri3",
 	"Prew40": "Tri3"
-
+  	},
+  "BABY_NAMES_IMAGE": {	  
+	"BabySlot1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2e71402-e8cb-4132-87b0-0888079f71c6.jpeg",
+	"BabySlot2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/1a0c1ec8-d6a8-40dd-9e9b-486e4903d700.jpeg"
+  
+  },
+  "BABY_NAMES_TITLE": {	  
+	"BabySlot1": "Baby names inspired by music",
+	"BabySlot2": "Baby names with spiritual meanings"
+	  
+  },
+  "BABY_NAMES_URL": {
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/let-the-music-play-and-inspire-baby-names",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-meaning-spiritual"
+  
  }
 }
