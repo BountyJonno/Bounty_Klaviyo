@@ -956,5 +956,39 @@
 	"Pstw76": "http://www.bounty.com/family/family-dynamics/the-irony-of-parenting",
 	"Pstw77": "http://www.bounty.com/family/family-dynamics/why-we-need-mum-friends",
 	"Pstw78": "http://www.bounty.com/family/lifestyle/relationships/10-super-judgements-parents-hear-from-other-parents"
-  }
+	}
+  "BABY_NAMES_IMAGE": {	  
+	"BabySlot1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2e71402-e8cb-4132-87b0-0888079f71c6.jpeg",
+	"BabySlot2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/1a0c1ec8-d6a8-40dd-9e9b-486e4903d700.jpeg"
+  
+  },
+  "BABY_NAMES_TITLE": {	  
+	"BabySlot1": "Baby names inspired by music",
+	"BabySlot2": "Baby names with spiritual meanings"
+	  
+  },
+  "BABY_NAMES_URL": {
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/let-the-music-play-and-inspire-baby-names",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-meaning-spiritual"
+	},
+  "TRENDING_URL": {	
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/first-trimester-pregnancy-limbo",
+	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
+	"Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements"
+
+
+	},
+  "TRENDING_IMAGE": {	
+	"Slot1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/a3eedf63-c85a-4e47-9418-53a5cb508469.jpeg",
+	"Slot2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
+	"Slot3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg"
+
+
+	},
+  "TRENDING_TITLE": {	
+	"Slot1": "First trimester pregnancy limbo",
+	"Slot2": "What no one tells you about the first 12 weeks of pregnancy",
+	"Slot3": "Unusual pregnancy announcements"
+
+   }
 }
