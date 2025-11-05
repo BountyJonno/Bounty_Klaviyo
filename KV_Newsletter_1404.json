@@ -15,6 +15,12 @@
 	"Pstm21": "https://bountyjonno.github.io/Bounty_Klaviyo/Content/images/Postnatal_19-24/Post_month_21.jpg",
 	"Pstm22": "https://bountyjonno.github.io/Bounty_Klaviyo/Content/images/Postnatal_19-24/Post_month_22.jpg",
 	"Pstm23": "https://bountyjonno.github.io/Bounty_Klaviyo/Content/images/Postnatal_19-24/Post_month_23.jpg"
-
+  },
+  "Age": {
+	"Pstm19": "Your 19 month old",
+	"Pstm20": "Your 20 month old",
+	"Pstm21": "Your 21 month old",
+	"Pstm22": "Your 22 month old",
+	"Pstm23": "Your 23 month old"
 }
 }
