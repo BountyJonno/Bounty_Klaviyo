@@ -51,6 +51,71 @@
 	"Slot2": "What no one tells you about the first 12 weeks of pregnancy 1403",
 	"Slot3": "Unusual pregnancy announcements 1403"
 
+	},
+
+  "POTTY_URL": {	
+	"Pstm24": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm25": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm26": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm27": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm28": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm29": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm30": "https://link.bounty.com/f4TjMKxgVQ",
+	"Pstm31": "https://link.bounty.com/Pq2Nk8GiVQ",
+	"Pstm32": "https://link.bounty.com/Pq2Nk8GiVQ",
+	"Pstm33": "https://link.bounty.com/Pq2Nk8GiVQ",
+	"Pstm34": "https://link.bounty.com/Pq2Nk8GiVQ",
+	"Pstm35": "https://link.bounty.com/Pq2Nk8GiVQ",
+	"Pstm36": "https://link.bounty.com/Pq2Nk8GiVQ"
+
+
+	},
+  "POTTY_IMAGE": {	
+	"Pstm24": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm25": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm26": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm27": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm28": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm29": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm30": "images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm31": "images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm32": "images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm33": "images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm34": "images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm35": "images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm36": "images/How_to_deal_with_Potty_training_set_backs.jpg"
+	},
+  "POTTY_TITLE": {	
+	"Pstm24": "Tips to encourage sitting on the potty",
+	"Pstm25": "Tips to encourage sitting on the potty",
+	"Pstm26": "Tips to encourage sitting on the potty",
+	"Pstm27": "Tips to encourage sitting on the potty",
+	"Pstm28": "Tips to encourage sitting on the potty",
+	"Pstm29": "Tips to encourage sitting on the potty",
+	"Pstm30": "Tips to encourage sitting on the potty",
+	"Pstm31": "How to deal with Potty training set backs",
+	"Pstm32": "How to deal with Potty training set backs",
+	"Pstm33": "How to deal with Potty training set backs",
+	"Pstm34": "How to deal with Potty training set backs",
+	"Pstm35": "How to deal with Potty training set backs",
+	"Pstm36": "How to deal with Potty training set backs"
+	},
+	
+  "POTTY_COPY": {	
+	"Pstm24": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm25": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm26": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm27": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm28": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm29": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm30": "Try these handy tips to help encourage your toddler to use the potty",
+	"Pstm31": "There are bound to be some setbacks when your potty training a toddler, these tips can help you get back on track",
+	"Pstm32": "There are bound to be some setbacks when your potty training a toddler, these tips can help you get back on track",
+	"Pstm33": "There are bound to be some setbacks when your potty training a toddler, these tips can help you get back on track",
+	"Pstm34": "There are bound to be some setbacks when your potty training a toddler, these tips can help you get back on track",
+	"Pstm35": "There are bound to be some setbacks when your potty training a toddler, these tips can help you get back on track",
+	"Pstm36": "There are bound to be some setbacks when your potty training a toddler, these tips can help you get back on track"
+
 
   }
 
