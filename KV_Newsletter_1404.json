@@ -22,5 +22,25 @@
 	"Pstm21": "Your 21 month old",
 	"Pstm22": "Your 22 month old",
 	"Pstm23": "Your 23 month old"
+		},
+
+  "TRENDING_URL": {	
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/first-trimester-pregnancy-limbo",
+	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
+	"Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements"
+
+
+	},
+  "TRENDING_IMAGE": {	
+	"Slot1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/a3eedf63-c85a-4e47-9418-53a5cb508469.jpeg",
+	"Slot2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
+	"Slot3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg"
+
+
+	},
+  "TRENDING_TITLE": {	
+	"Slot1": "First trimester pregnancy limbo 1404",
+	"Slot2": "What no one tells you about the first 12 weeks of pregnancy 1404",
+	"Slot3": "Unusual pregnancy announcements 1404"
 }
 }
