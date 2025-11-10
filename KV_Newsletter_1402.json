@@ -972,23 +972,23 @@
 	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-meaning-spiritual"
 	},
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/first-trimester-pregnancy-limbo",
-	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
-	"Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements"
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/top-10-tips-to-beat-a-case-of-baby-brain",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/crawling",
+	"Slot3": "http://www.bounty.com/family/family-dynamics/what-you-learn-in-your-first-year-as-a-parent"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/a3eedf63-c85a-4e47-9418-53a5cb508469.jpeg",
-	"Slot2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
-	"Slot3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_tips_to_beat_a_case_of_baby_brain.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/When_will_my_baby_crawl.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_youll_learn_in_your_first_year_as_a_parent.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "First trimester pregnancy limbo",
-	"Slot2": "What no one tells you about the first 12 weeks of pregnancy",
-	"Slot3": "Unusual pregnancy announcements"
+	"Slot1": "Top 10 tips to beat a case of baby brain",
+	"Slot2": "When will my baby crawl?",
+	"Slot3": "What you'll learn in your first year as a parent"
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
