@@ -959,23 +959,23 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/first-trimester-pregnancy-limbo",
-	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
-	"Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/unusual-pregnancy-announcements"
+	"Slot1": "http://www.bounty.com/family/family-dynamics/introducing-a-new-baby-to-the-family",
+	"Slot2": "http://www.bounty.com/family/lifestyle/relationships/five-things-new-parents-will-argue-about",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/a3eedf63-c85a-4e47-9418-53a5cb508469.jpeg",
-	"Slot2": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/7cf36319-4c5e-4de2-9684-39f1d948c918.jpeg",
-	"Slot3": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/d2efadc3-a8e3-4fdc-a631-ceadc9656028.jpeg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Heres_how_to_introduce_your_new_arrival_to_the_family.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Five_rows_new_parents_face.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "First trimester pregnancy limbo 1403",
-	"Slot2": "What no one tells you about the first 12 weeks of pregnancy 1403",
-	"Slot3": "Unusual pregnancy announcements 1403"
+	"Slot1": "Here's how to introduce your new arrival to the family",
+	"Slot2": "Five rows new parents face",
+	"Slot3": "Cutting your baby's nails"
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
