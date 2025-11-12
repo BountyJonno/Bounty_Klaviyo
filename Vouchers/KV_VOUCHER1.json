@@ -1,1 +1,38 @@
-
+{
+  "LINK": {
+	"Voucher7": "https://link.bounty.com/qkmvuhlpiUb",
+	"Voucher2": "https://link.bounty.com/v5PJu7kvCXb",
+	"Voucher6": "https://link.bounty.com/Wr8XVVKNKXb",
+	"Voucher3": "https://link.bounty.com/CNiMgdZ72Xb",
+	"Voucher4": "https://link.bounty.com/wf1Q5dZ72Xb",
+	"Voucher5": "https://link.bounty.com/2ZXXSeZ72Xb",
+	"Voucher1": "https://link.bounty.com/p8UBugZ72Xb",
+  },
+  "TITLE": {
+	"Voucher7": "Get FREE NHS prescriptions with a maternity exemption certificate",
+	"Voucher2": "FREE grüum Festive Home Fragrance & Soap Set - worth £23",
+	"Voucher6": "Save 20% on Childs Farm's New Baby Range at Boots",
+	"Voucher3": "30% OFF Tommee Tippee Anti-Colic Starter Set",
+	"Voucher4": "20% OFF Mama Bamboo Sustainable Nappy & Wipes Starter Pack",
+	"Voucher5": "30% OFF Cosatto High Chair (Suitable From Birth)",
+	"Voucher1": "£250 OFF Birth-to-Toddler Nordi Travel System",
+  },
+  "IMAGE": {
+	"Voucher7": "https://bountycdn.azureedge.net/clients/1236/nhs_logo_thumb_7.jpg",
+	"Voucher2": "https://bountycdn.azureedge.net/clients/95/Bounty---Festive-Home-Fragrance-and-Soap-Set---330x330-(with-text).png",
+	"Voucher6": "https://bountycdn.azureedge.net/clients/143/Bounty-June-thumbnail_3.jpg",
+	"Voucher3": "https://bountycdn.azureedge.net/clients/1342/Tommee-Tippee-Advanced-Anti-Colic-Joy-thumb.png",
+	"Voucher4": "https://bountycdn.azureedge.net/clients/1342/Newborn-Starter-Bundle-Joy-thumb.png",
+	"Voucher5": "https://bountycdn.azureedge.net/clients/1342/Noodle-0+-Highchair-Joy-thumb.png",
+	"Voucher1": "https://bountycdn.azureedge.net/clients/1342/Noordi-Sole-Go,-Antracite-Joy-thumb.png",
+  },
+  "DESCRIPTION": {
+	"Voucher7": "Pregnant or given birth in the last 12 months? Get free NHS prescriptions with a maternity exemption certificate",
+	"Voucher2": "This limited-time set of festive treats is worth £23 and is completely FREE - just cover delivery. Don't miss your chance to bring a little festive fragrance home today.",
+	"Voucher6": "Discover our upgraded, award-winning baby range - 20% off for limited time only!",
+	"Voucher3": "Everything you need for those newborn feeds",
+	"Voucher4": "Stock up on daily essentials",
+	"Voucher5": "Designed to grow with your baby",
+	"Voucher1": "From those first cosy newborn strolls through to curious toddler exploring. A long-lasting travel solution.",
+}
+}
