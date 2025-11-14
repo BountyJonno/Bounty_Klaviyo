@@ -1,39 +1,38 @@
-
 {
   "LINK": {
-	"voucher1": "https://link.bounty.com/JpHWTtChaUb",
-	"voucher7": "https://link.bounty.com/FrcFlmlpiUb",
-	"voucher5": "https://link.bounty.com/34gOeuUSqXb",
-	"voucher4": "https://link.bounty.com/SCOrclcOZXb",
-	"voucher6": "https://link.bounty.com/wFWx44sPUXb",
-	"voucher3": "https://link.bounty.com/p8UBugZ72Xb",
-	"voucher2": "https://link.bounty.com/sOcQelNr6Xb"
+	"Voucher1": "https://link.bounty.com/JpHWTtChaUb",
+	"Voucher7": "https://link.bounty.com/FrcFlmlpiUb",
+	"Voucher5": "https://link.bounty.com/34gOeuUSqXb",
+	"Voucher4": "https://link.bounty.com/SCOrclcOZXb",
+	"Voucher6": "https://link.bounty.com/wFWx44sPUXb",
+	"Voucher3": "https://link.bounty.com/p8UBugZ72Xb",
+	"Voucher2": "https://link.bounty.com/sOcQelNr6Xb"
  },
   "TITLE": {
-	"voucher1": "50% OFF 4 Piece Tommee Tippee Baby Essentials Bundle - NOW £20",
-	"voucher7": "Get help to buy healthy food and milk with NHS Healthy Start",
-	"voucher5": "FREE Weaning Guide from Ella's Kitchen",
-	"voucher4": "10% OFF baby products, monthly giveaways & advice with HiPP BabyClub!",
-	"voucher6": "55% OFF First Box + FREE Dessert For Life!",
-	"voucher3": "£250 OFF Birth-to-Toddler Nordi Travel System",
-	"voucher2": "smol's home essentials bundle for £7 with FREE delivery! "
+	"Voucher1": "50% OFF 4 Piece Tommee Tippee Baby Essentials Bundle - NOW £20",
+	"Voucher7": "Get help to buy healthy food and milk with NHS Healthy Start",
+	"Voucher5": "FREE Weaning Guide from Ella's Kitchen",
+	"Voucher4": "10% OFF baby products, monthly giveaways & advice with HiPP BabyClub!",
+	"Voucher6": "55% OFF First Box + FREE Dessert For Life!",
+	"Voucher3": "£250 OFF Birth-to-Toddler Nordi Travel System",
+	"Voucher2": "smol's home essentials bundle for £7 with FREE delivery! "
   },
   "IMAGE": {
-	"voucher1": "https://bountycdn.azureedge.net/clients/123/Thumbnail-2.jpg",
-	"voucher7": "https://bountycdn.azureedge.net/clients/1286/Healthy-Start-Bounty-thumbnail-image_7.jpg",
-	"voucher5": "https://bountycdn.azureedge.net/clients/1284/Ella's-Kitchen-sq_1.png",
-	"voucher4": "https://bountycdn.azureedge.net/clients/1319/Co-reg-voucher-ad---thumbnail_5.jpg",
-	"voucher6": "https://bountycdn.azureedge.net/clients/26/Thumbnail_BoxShot2_V1_10.jpg",
-	"voucher3": "https://bountycdn.azureedge.net/clients/1342/Noordi-Sole-Go,-Antracite-Joy-thumb.png",
-	"voucher2": "https://bountycdn.azureedge.net/clients/86/EB-360-x-360_1.png"
+	"Voucher1": "https://bountycdn.azureedge.net/clients/123/Thumbnail-2.jpg",
+	"Voucher7": "https://bountycdn.azureedge.net/clients/1286/Healthy-Start-Bounty-thumbnail-image_7.jpg",
+	"Voucher5": "https://bountycdn.azureedge.net/clients/1284/Ella's-Kitchen-sq_1.png",
+	"Voucher4": "https://bountycdn.azureedge.net/clients/1319/Co-reg-voucher-ad---thumbnail_5.jpg",
+	"Voucher6": "https://bountycdn.azureedge.net/clients/26/Thumbnail_BoxShot2_V1_10.jpg",
+	"Voucher3": "https://bountycdn.azureedge.net/clients/1342/Noordi-Sole-Go,-Antracite-Joy-thumb.png",
+	"Voucher2": "https://bountycdn.azureedge.net/clients/86/EB-360-x-360_1.png"
   },
   "DESCRIPTION": {
-	"voucher1": "Plus VIP exclusive offers, parent support & advice when you sign up. ",
-	"voucher7": "You could get help to buy healthy food and milk with NHS Healthy Start.",
-	"voucher5": "Get a free weaning guide when you sign up to Ella's Friends",
-	"voucher4": "Join the HiPP BabyClub - support from pregnancy to toddlerhood",
-	"voucher6": "Enjoy flexible, Quick & Easy meals with vibrant flavours this autumn with HelloFresh",
-	"voucher3": "From those first cosy newborn strolls through to curious toddler exploring. A long-lasting travel solution.",
-	"voucher2": "smol has packed their 4 most-loved cleaning swaps for a gleaming home in one handy essentials bundle. For just £7 you'll receive: 9 x bio or non-bio laundry capsules (your choice!). 9 x all-in-one dishwasher tablets. 1 x multi-purpose spray & refill tablet (zesty orange). 1 x foaming handwash bottle & refill tablet (sea breeze)."
+	"Voucher1": "Plus VIP exclusive offers, parent support & advice when you sign up. ",
+	"Voucher7": "You could get help to buy healthy food and milk with NHS Healthy Start.",
+	"Voucher5": "Get a free weaning guide when you sign up to Ella's Friends",
+	"Voucher4": "Join the HiPP BabyClub - support from pregnancy to toddlerhood",
+	"Voucher6": "Enjoy flexible, Quick & Easy meals with vibrant flavours this autumn with HelloFresh",
+	"Voucher3": "From those first cosy newborn strolls through to curious toddler exploring. A long-lasting travel solution.",
+	"Voucher2": "smol has packed their 4 most-loved cleaning swaps for a gleaming home in one handy essentials bundle. For just £7 you'll receive: 9 x bio or non-bio laundry capsules (your choice!). 9 x all-in-one dishwasher tablets. 1 x multi-purpose spray & refill tablet (zesty orange). 1 x foaming handwash bottle & refill tablet (sea breeze)."
   }
 }
