@@ -1,42 +1,42 @@
 {
   "LINK": {
-	"voucher1": "https://link.bounty.com/JpHWTtChaUb",
-	"voucher4": "https://link.bounty.com/v5PJu7kvCXb",
-	"voucher2": "https://link.bounty.com/lWxMhiYYBYb",
-	"voucher7": "https://link.bounty.com/W1xuxdSDDYb",
-	"voucher5": "https://link.bounty.com/6Hu2leSDDYb",
-	"voucher3": "https://link.bounty.com/Pfh3KgSDDYb",
-	"voucher6": "https://link.bounty.com/GYU1whSDDYb"
+	"Voucher1": "https://link.bounty.com/JpHWTtChaUb",
+	"Voucher4": "https://link.bounty.com/v5PJu7kvCXb",
+	"Voucher2": "https://link.bounty.com/lWxMhiYYBYb",
+	"Voucher7": "https://link.bounty.com/W1xuxdSDDYb",
+	"Voucher5": "https://link.bounty.com/6Hu2leSDDYb",
+	"Voucher3": "https://link.bounty.com/Pfh3KgSDDYb",
+	"Voucher6": "https://link.bounty.com/GYU1whSDDYb"
 
   },
   "TITLE": {
-	"voucher1": "Tommee Tippee Black Friday Deals! - Sign up for access",
-	"voucher4": "FREE grüum Festive Home Fragrance & Soap Set - worth £23",
-	"voucher2": "Up to 60% OFF in the Joy Black Friday Sale",
-	"voucher7": "Save £50 on Amana DreamX Electric Swing",
-	"voucher5": "£100 OFF the RumiX Electric Crib: Sweet Dreams Await",
-	"voucher3": "£200 OFF the all-stage Siena Twist+ 360° i-Size Car Seat",
-	"voucher6": "25% OFF Benefit Women's Health Juices. Pregnancy Wellness Support"
+	"Voucher1": "Tommee Tippee Black Friday Deals! - Sign up for access",
+	"Voucher4": "FREE grüum Festive Home Fragrance & Soap Set - worth £23",
+	"Voucher2": "Up to 60% OFF in the Joy Black Friday Sale",
+	"Voucher7": "Save £50 on Amana DreamX Electric Swing",
+	"Voucher5": "£100 OFF the RumiX Electric Crib: Sweet Dreams Await",
+	"Voucher3": "£200 OFF the all-stage Siena Twist+ 360° i-Size Car Seat",
+	"Voucher6": "25% OFF Benefit Women's Health Juices. Pregnancy Wellness Support"
 
   },
   "IMAGE": {
-	"voucher1": "https://bountycdn.azureedge.net/clients/123/Black-Friday---Thumbnail.jpg",
-	"voucher4": "https://bountycdn.azureedge.net/clients/95/Bounty---Festive-Home-Fragrance-and-Soap-Set---330x330-(with-text).png",
-	"voucher2": "https://bountycdn.azureedge.net/clients/1342/Black-Friday-Joy-thumb.png",
-	"voucher7": "https://bountycdn.azureedge.net/clients/1342/Amana-DreamX-Electric-Swing-Joy-thumb.png",
-	"voucher5": "https://bountycdn.azureedge.net/clients/1342/Amana-RumiX-Electric-Crib-Joy-thumb.png",
-	"voucher3": "https://bountycdn.azureedge.net/clients/1342/Amana-Siena-Twist+-360-Spin-ALL-STAGE-i-Size-Car-Seat-Joy-thumb.png",
-	"voucher6": "https://bountycdn.azureedge.net/clients/1318/Untitled-(360-x-360-px)_5.png"
+	"Voucher1": "https://bountycdn.azureedge.net/clients/123/Black-Friday---Thumbnail.jpg",
+	"Voucher4": "https://bountycdn.azureedge.net/clients/95/Bounty---Festive-Home-Fragrance-and-Soap-Set---330x330-(with-text).png",
+	"Voucher2": "https://bountycdn.azureedge.net/clients/1342/Black-Friday-Joy-thumb.png",
+	"Voucher7": "https://bountycdn.azureedge.net/clients/1342/Amana-DreamX-Electric-Swing-Joy-thumb.png",
+	"Voucher5": "https://bountycdn.azureedge.net/clients/1342/Amana-RumiX-Electric-Crib-Joy-thumb.png",
+	"Voucher3": "https://bountycdn.azureedge.net/clients/1342/Amana-Siena-Twist+-360-Spin-ALL-STAGE-i-Size-Car-Seat-Joy-thumb.png",
+	"Voucher6": "https://bountycdn.azureedge.net/clients/1318/Untitled-(360-x-360-px)_5.png"
 
   },
   "DESCRIPTION": {
-	"voucher1": "Plus VIP exclusive offers, parent support & advice when you sign up. ",
-	"voucher4": "This limited-time set of festive treats is worth £23 and is completely FREE - just cover delivery. Don't miss your chance to bring a little festive fragrance home today.",
-	"voucher2": "Shop unmissable deals for a limited time only! Discover huge Black Friday reductions across pushchairs, sleepers, carriers and more. Hurry - these offers won't last long!",
-	"voucher7": "Dream-time swing? Sorted",
-	"voucher5": "Sleep tight, save big",
-	"voucher3": "Safety, comfort and convenience -  the Siena Twist+ brings all three to every journey. With 360 rotation for effortless loading and an all-stage i-Size design, this car seat grows with your child from infancy onward.",
-	"voucher6": "Save on Benefit Women's Health Drinks including Benefit Pregnancy Prune and Apple Juice. Enriched with iron, folic acid, zinc, and essential vitamins to support pregnancy wellness. Made with 100% fruit and vegetables, crafted specifically for women's health.  "
+	"Voucher1": "Plus VIP exclusive offers, parent support & advice when you sign up. ",
+	"Voucher4": "This limited-time set of festive treats is worth £23 and is completely FREE - just cover delivery. Don't miss your chance to bring a little festive fragrance home today.",
+	"Voucher2": "Shop unmissable deals for a limited time only! Discover huge Black Friday reductions across pushchairs, sleepers, carriers and more. Hurry - these offers won't last long!",
+	"Voucher7": "Dream-time swing? Sorted",
+	"Voucher5": "Sleep tight, save big",
+	"Voucher3": "Safety, comfort and convenience -  the Siena Twist+ brings all three to every journey. With 360 rotation for effortless loading and an all-stage i-Size design, this car seat grows with your child from infancy onward.",
+	"Voucher6": "Save on Benefit Women's Health Drinks including Benefit Pregnancy Prune and Apple Juice. Enriched with iron, folic acid, zinc, and essential vitamins to support pregnancy wellness. Made with 100% fruit and vegetables, crafted specifically for women's health.  "
 
   }
   }
