@@ -958,37 +958,37 @@
 	"Pstw78": "http://www.bounty.com/family/lifestyle/relationships/10-super-judgements-parents-hear-from-other-parents"
 	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_guaranteed_to_shock_grandma.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_inspired_by_the_movies.jpg"
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_inspired_by_music.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_guaranteed_to_shock_grandma.jpg"
   
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Baby names guaranteed to shock grandma",
-	"BabySlot2": "Baby names inspired by the movies"
+	"BabySlot1": "Baby names inspired by music",
+	"BabySlot2": "Baby names guaranteed to shock grandma"
 	  
   },
   "BABY_NAMES_URL": {
-	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/10-boys-and-girls-names-sure-to-shock-grandma",
-	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-names-inspired-by-the-movies"
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/let-the-music-play-and-inspire-baby-names",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/10-boys-and-girls-names-sure-to-shock-grandma"
 	},
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/top-10-tips-to-beat-a-case-of-baby-brain",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/crawling",
-	"Slot3": "http://www.bounty.com/family/family-dynamics/what-you-learn-in-your-first-year-as-a-parent"
+	"Slot1": "http://www.bounty.com/family/work/back-to-work/weighing-up-whether-to-return-to-work-after-maternity-leave",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/newborn/birthmarks",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_tips_to_beat_a_case_of_baby_brain.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/When_will_my_baby_crawl.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_youll_learn_in_your_first_year_as_a_parent.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Back_to_work_after_maternity_leave.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Birthmarks.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Top 10 tips to beat a case of baby brain",
-	"Slot2": "When will my baby crawl?",
-	"Slot3": "What you'll learn in your first year as a parent"
+	"Slot1": "Back to work after maternity leave",
+	"Slot2": "Birthmarks",
+	"Slot3": "Baby development milestones timeline"
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
