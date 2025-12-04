@@ -34,23 +34,23 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
-	"Slot2": "http://www.bounty.com/family/family-dynamics/sanity-savers-for-mums",
-	"Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/our-top-10-funniest-pregnancy-googles"
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/illness/the-signs-and-symptoms-of-meningitis-in-babies-and-toddlers",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/the-tantrum-tamers-you-need-to-know"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Sanity_savers_for_mums.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Some_of_the_funniest_pregnancy_Googles.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Signs_and_symptoms_of_meningitis_in_babies_and_toddlers.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Tantrum_tamers.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Crazy things tired mums do",
-	"Slot2": "Sanity savers for mums",
-	"Slot3": "Some of the funniest pregnancy Googles"
+	"Slot1": "Baby development milestones timeline",
+	"Slot2": "Signs and symptoms of meningitis in babies and toddlers",
+	"Slot3": "Tantrum tamers"
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
