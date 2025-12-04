@@ -959,23 +959,23 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/introducing-a-new-baby-to-the-family",
-	"Slot2": "http://www.bounty.com/family/lifestyle/relationships/five-things-new-parents-will-argue-about",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails"
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/do-you-have-pregnancy-regret",
+	"Slot2": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/feeding-and-nutrition/feeding-in-the-first-six-months"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Heres_how_to_introduce_your_new_arrival_to_the_family.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Five_rows_new_parents_face.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_have_pregnancy_regret.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Feeding_in_the_first_six_months.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Here's how to introduce your new arrival to the family",
-	"Slot2": "Five rows new parents face",
-	"Slot3": "Cutting your baby's nails"
+	"Slot1": "Do you have pregnancy regret?",
+	"Slot2": "Crazy things tired mums do",
+	"Slot3": "Feeding in the first six months"
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
