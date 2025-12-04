@@ -33,23 +33,23 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/the-truth-about-sacred-nap-time",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/separation-anxiety",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/top-tips"
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/do-you-have-pregnancy-regret",
+	"Slot2": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/parenting-tests-that-will-test-your-patience",
+	"Slot3": "http://www.bounty.com/family/family-dynamics/parents-with-two-children-under-three-can-you-relate"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Nap_time_The_sacred_couple_of_hours_of_the_day.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Separation_anxiety.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Ingredients_for_a_better_sleep_for_all_of_you.jpg"
+	"Slot1": "http://www.bounty.com/family/family-dynamics/parents-with-two-children-under-three-can-you-relate",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_3.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Only_mums_of_two_under_3_can_fully_appreciate.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Nap time: The sacred couple of hours of the day",
-	"Slot2": "Separation anxiety",
-	"Slot3": "Ingredients for a better sleep - for all of you"
+	"Slot1": "Do you have pregnancy regret?",
+	"Slot2": "Parenting tests that will try your patience",
+	"Slot3": "Only mums of two under 3 can fully appreciate"
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
