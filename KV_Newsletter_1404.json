@@ -25,19 +25,19 @@
 		},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/boys-and-girls-brains",
-	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/do-you-miss-these-aspects-of-pregnancy",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/advice-you-need-to-know-about-co-sleeping"
+	"Slot1": "http://www.bounty.com/family/childcare/childcare-benefits",
+	"Slot2": "http://www.bounty.com/family/family-dynamics/the-little-things-that-really-count",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/baby-socialising-with-other-babies"
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Brain_development_Why_are_boys_and_girls_different.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_miss_these_aspects_of_pregnancy.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice_you_need_on_co-sleeping.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Childcare_benefits.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_2.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_build_your_babys_social_skills.jpg"
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Brain development: Why are boys' and girls' different?",
-	"Slot2": "Do you miss these aspects of pregnancy?",
-	"Slot3": "Advice you need on co-sleeping"
+	"Slot1": "Childcare benefits",
+	"Slot2": "It's the little things of being a parent",
+	"Slot3": "How to build your baby's social skills"
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
