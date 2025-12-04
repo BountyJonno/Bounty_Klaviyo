@@ -33,23 +33,23 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/babys-memory",
-	"Slot3": "http://www.bounty.com/Home/toddler-1-to-2-years/development/social-and-emotional-development/why-they-call-it-the-terrible-twos"
+	"Slot1": "http://www.bounty.com/family/house-and-home/babies-and-pets/bhj-dog-feature",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/baby-growing-up-happy",
+	"Slot3": "http://www.bounty.com/family/family-dynamics/the-little-things-that-really-count"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_can_my_baby_remember.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_terrible_twos.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_keep_babies_and_toddlers_safe_around_dogs.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_help_your_little_one_grow_up_happy.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_2.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Crazy things tired mums do",
-	"Slot2": "What can my baby remember?",
-	"Slot3": "The terrible twos..."
+	"Slot1": "How to keep babies and toddlers safe around dogs",
+	"Slot2": "How to help your little one grow up happy",
+	"Slot3": "It's the little things of being a parent"
 
 	},
 
