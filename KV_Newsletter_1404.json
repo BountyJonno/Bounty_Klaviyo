@@ -25,19 +25,19 @@
 		},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/childcare/childcare-benefits",
-	"Slot2": "http://www.bounty.com/family/family-dynamics/the-little-things-that-really-count",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/baby-socialising-with-other-babies"
+	"Slot1": "http://www.bounty.com/a-z-family-illness/child-illnesses/febrile-convulsions",
+	"Slot2": "http://www.bounty.com/family/family-dynamics/parents-with-two-children-under-three-can-you-relate",
+	"Slot3": "http://www.bounty.com/family/travel/top-travel-tips/baby-travel-safety"
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Childcare_benefits.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_2.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_build_your_babys_social_skills.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Febrile_convulsions.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Only_mums_of_two_under_3_can_fully_appreciate.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Keeping_your_baby_safe_abroad.jpg"
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Childcare benefits",
-	"Slot2": "It's the little things of being a parent",
-	"Slot3": "How to build your baby's social skills"
+	"Slot1": "Febrile convulsions",
+	"Slot2": "Only mums of two under 3 can fully appreciate",
+	"Slot3": "Keeping your baby safe abroad"
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
