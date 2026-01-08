@@ -34,23 +34,23 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/illness/the-signs-and-symptoms-of-meningitis-in-babies-and-toddlers",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/the-tantrum-tamers-you-need-to-know"
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/when-is-it-ok-to-ask-woman-if-shes-pregnant",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play",
+	"Slot3": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/parenting-tests-that-will-test-your-patience"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Signs_and_symptoms_of_meningitis_in_babies_and_toddlers.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Tantrum_tamers.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_2.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_3.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Baby development milestones timeline",
-	"Slot2": "Signs and symptoms of meningitis in babies and toddlers",
-	"Slot3": "Tantrum tamers"
+	"Slot1": "Is it ever OK to ask a woman if she's pregnant?",
+	"Slot2": "Having fun while learning",
+	"Slot3": "Parenting tests that will try your patience"
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
