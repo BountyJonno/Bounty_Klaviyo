@@ -33,23 +33,23 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/house-and-home/babies-and-pets/bhj-dog-feature",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/baby-growing-up-happy",
-	"Slot3": "http://www.bounty.com/family/family-dynamics/the-little-things-that-really-count"
+	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/night-terrors-in-children",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/diet-and-nutrition/why-family-meals-matter"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_keep_babies_and_toddlers_safe_around_dogs.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_help_your_little_one_grow_up_happy.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_2.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Night_terrors_in_children.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_family_meals_matter.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "How to keep babies and toddlers safe around dogs",
-	"Slot2": "How to help your little one grow up happy",
-	"Slot3": "It's the little things of being a parent"
+	"Slot1": "Having fun while learning",
+	"Slot2": "Night terrors in children",
+	"Slot3": "Why family meals matter"
 
 	},
 
