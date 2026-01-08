@@ -33,23 +33,23 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/do-you-have-pregnancy-regret",
-	"Slot2": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/parenting-tests-that-will-test-your-patience",
-	"Slot3": "http://www.bounty.com/family/family-dynamics/parents-with-two-children-under-three-can-you-relate"
+	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/night-terrors-in-children",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/diet-and-nutrition/why-family-meals-matter",
+	"Slot3": "http://www.bounty.com/family/family-dynamics/the-irony-of-parenting"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_have_pregnancy_regret.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_3.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Only_mums_of_two_under_3_can_fully_appreciate.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Night_terrors_in_children.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_family_meals_matter.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Oh_the_irony_of_parenting.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Do you have pregnancy regret?",
-	"Slot2": "Parenting tests that will try your patience",
-	"Slot3": "Only mums of two under 3 can fully appreciate"
+	"Slot1": "Night terrors in children",
+	"Slot2": "Why family meals matter",
+	"Slot3": "Oh the irony of parenting!"
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
