@@ -828,41 +828,41 @@
 	},
 	
   "TRENDING_URL": {	
-	"Trending Tri 1 Slot 1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/a-pregnant-womans-first-thoughts",
-	"Trending Tri 1 Slot 2": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
-	"Trending Tri 1 Slot 3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/our-top-10-funniest-pregnancy-googles",
-	"Trending Tri 2 Slot 1": "http://www.bounty.com/family/lifestyle/relationships/ways-to-safeguard-your-relationship-now-youre-a-parent",
-	"Trending Tri 2 Slot 2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/truth-about-your-growing-bump",
-	"Trending Tri 2 Slot 3": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
-	"Trending Tri 3 Slot 1": "http://www.bounty.com/pregnancy-and-birth/birth/post-birth/the-positives-of-staying-in-hospital-after-giving-birth",
-	"Trending Tri 3 Slot 2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-to-do-list",
-	"Trending Tri 3 Slot 3": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/how-to-tell-if-youre-having-a-boy-or-girl"
+	"TrendingTri1Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/a-pregnant-womans-first-thoughts",
+	"TrendingTri1Slot2": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
+	"TrendingTri1Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/our-top-10-funniest-pregnancy-googles",
+	"TrendingTri2Slot1": "http://www.bounty.com/family/lifestyle/relationships/ways-to-safeguard-your-relationship-now-youre-a-parent",
+	"TrendingTri2Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/truth-about-your-growing-bump",
+	"TrendingTri2Slot3": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
+	"TrendingTri3Slot1": "http://www.bounty.com/pregnancy-and-birth/birth/post-birth/the-positives-of-staying-in-hospital-after-giving-birth",
+	"TrendingTri3Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-to-do-list",
+	"TrendingTri3Slot3": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/how-to-tell-if-youre-having-a-boy-or-girl"
 
 	},
 	
   "TRENDING_IMAGE": {	
-	"Trending Tri 1 Slot 1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_3.jpg",
-	"Trending Tri 1 Slot 2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
-	"Trending Tri 1 Slot 3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Some_of_the_funniest_pregnancy_Googles.jpg",
-	"Trending Tri 2 Slot 1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Parents_How_to_safeguard_your_relationship.jpg",
-	"Trending Tri 2 Slot 2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_truth_about_your_growing_bump.jpg",
-	"Trending Tri 2 Slot 3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
-	"Trending Tri 3 Slot 1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_positives_of_staying_in_hospital_after_giving_birth.jpg",
-	"Trending Tri 3 Slot 2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_pregnancy_to_do_list.png",
-	"Trending Tri 3 Slot 3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Old_wives_tales.jpg"
+	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_3.jpg",
+	"TrendingTri1Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
+	"TrendingTri1Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Some_of_the_funniest_pregnancy_Googles.jpg",
+	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Parents_How_to_safeguard_your_relationship.jpg",
+	"TrendingTri2Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_truth_about_your_growing_bump.jpg",
+	"TrendingTri2Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
+	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_positives_of_staying_in_hospital_after_giving_birth.jpg",
+	"TrendingTri3Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_pregnancy_to_do_list.png",
+	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Old_wives_tales.jpg"
 
 	},
 
   "TRENDING_TITLE": {	
-	"Trending Tri 1 Slot 1": "A pregnant woman's first thoughts",
-	"Trending Tri 1 Slot 2": "Potential health concerns during pregnancy",
-	"Trending Tri 1 Slot 3": "Some of the funniest pregnancy Googles",
-	"Trending Tri 2 Slot 1": "Parents: How to safeguard your relationship",
-	"Trending Tri 2 Slot 2": "Tips on how your birth partner can help you through labour",
-	"Trending Tri 2 Slot 3": "Potential health concerns during pregnancy",
-	"Trending Tri 3 Slot 1": "The positives of staying in hospital after giving birth",
-	"Trending Tri 3 Slot 2": "Your pregnancy to do list",
-	"Trending Tri 3 Slot 3": "Old wives' tales that tell you if you're having a boy or a girl... apparently!"
+	"TrendingTri1Slot1": "A pregnant woman's first thoughts",
+	"TrendingTri1Slot2": "Potential health concerns during pregnancy",
+	"TrendingTri1Slot3": "Some of the funniest pregnancy Googles",
+	"TrendingTri2Slot1": "Parents: How to safeguard your relationship",
+	"TrendingTri2Slot2": "Tips on how your birth partner can help you through labour",
+	"TrendingTri2Slot3": "Potential health concerns during pregnancy",
+	"TrendingTri3Slot1": "The positives of staying in hospital after giving birth",
+	"TrendingTri3Slot2": "Your pregnancy to do list",
+	"TrendingTri3Slot3": "Old wives' tales that tell you if you're having a boy or a girl... apparently!"
 
 	},
   "TRIMESTER_LOOKUP": {	
