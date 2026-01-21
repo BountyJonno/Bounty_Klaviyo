@@ -34,24 +34,24 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/when-is-it-ok-to-ask-woman-if-shes-pregnant",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play",
-	"Slot3": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/parenting-tests-that-will-test-your-patience"
+	"Slot1": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
+	"Slot2": "http://www.bounty.com/family/family-fun-and-activities/six-classic-parenting-facebook-faux-pas",
+	"Slot3": "http://www.bounty.com/pregnancy-and-birth/safer-sleep/nearly-half-of-mums-fib-about-co-sleeping-with-baby-survey-finds"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_2.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_3.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cringe_worthy_Facebooks_posts.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Would_you_fib_about_co_sleeping.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Is it ever OK to ask a woman if she's pregnant?",
-	"Slot2": "Having fun while learning",
-	"Slot3": "Parenting tests that will try your patience"
-  },
+	"Slot1": "Crazy things tired mums do",
+	"Slot2": "Cringe-worthy Facebooks posts",
+	"Slot3": "Would you fib about co-sleeping?"
+ },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
 	"Prew05": "Your pregnancy journey at 5 weeks",
