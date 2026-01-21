@@ -25,19 +25,22 @@
 		},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/a-z-family-illness/child-illnesses/febrile-convulsions",
-	"Slot2": "http://www.bounty.com/family/family-dynamics/parents-with-two-children-under-three-can-you-relate",
-	"Slot3": "http://www.bounty.com/family/travel/top-travel-tips/baby-travel-safety"
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/skincare/cradle-cap",
+	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/top-10-tips-to-beat-a-case-of-baby-brain",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play"
+
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Febrile_convulsions.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Only_mums_of_two_under_3_can_fully_appreciate.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Keeping_your_baby_safe_abroad.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_deal_with_stubborn_cradle_cap.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_tips_to_beat_a_case_of_baby_brain.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg"
+
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Febrile convulsions",
-	"Slot2": "Only mums of two under 3 can fully appreciate",
-	"Slot3": "Keeping your baby safe abroad"
+	"Slot1": "How to deal with stubborn cradle cap",
+	"Slot2": "Top 10 tips to beat a case of baby brain",
+	"Slot3": "Having fun while learning"
+
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
