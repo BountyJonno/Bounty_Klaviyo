@@ -958,18 +958,20 @@
 	"Pstw78": "http://www.bounty.com/family/lifestyle/relationships/10-super-judgements-parents-hear-from-other-parents"
 	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_boys.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_girls.jpg"
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_inspired_by_music.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Cool_baby_names_that_arent_even_names.jpg"
+
   
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Unique and unusual baby names for boys",
-	"BabySlot2": "Unique and unusual baby names for girls"
+	"BabySlot1": "Baby names inspired by music",
+	"BabySlot2": "Cool baby names that aren't even names"
+
 	  
   },
   "BABY_NAMES_URL": {
-	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-boys",
-	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-girls"
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/let-the-music-play-and-inspire-baby-names",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/cool-baby-names-that-arent-even-names"
 	},
   "TRENDING_URL": {	
 	"Slot1": "http://www.bounty.com/baby-0-to-12-months/newborn/10-things-all-new-mums-are-guilty-of",
