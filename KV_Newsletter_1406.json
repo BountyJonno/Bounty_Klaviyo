@@ -33,23 +33,26 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/night-terrors-in-children",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/diet-and-nutrition/why-family-meals-matter",
-	"Slot3": "http://www.bounty.com/family/family-dynamics/the-irony-of-parenting"
+	"Slot1": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bhj-toddler-colds"
+
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Night_terrors_in_children.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_family_meals_matter.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Oh_the_irony_of_parenting.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_many_colds_are_normal_for_children.jpg"
+
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Night terrors in children",
-	"Slot2": "Why family meals matter",
-	"Slot3": "Oh the irony of parenting!"
+	"Slot1": "Crazy things tired mums do",
+	"Slot2": "Having fun while learning",
+	"Slot3": "How many colds are normal for children?"
+
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
