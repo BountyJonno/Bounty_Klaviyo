@@ -959,23 +959,22 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/milestones-and-future-success",
-	"Slot2": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play"
-
+	"Slot1": "http://www.bounty.com/family/family-dynamics/10-things-only-a-mum-truly-understands",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/your-baby-wont-sleep-in-a-cot-try-this",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/baby-growing-up-happy"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Are_baby_milestones_an_indication_of_how_clever_theyll_be.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg"
-
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_02-News_img_1.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Is_your_baby_resisting_sleep_in_the_cot.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_help_your_little_one_grow_up_happy.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Are baby milestones an indication of how clever they'll be?",
-	"Slot2": "Crazy things tired mums do",
-	"Slot3": "Having fun while learning"
+	"Slot1": "10 things only a mum can understand",
+	"Slot2": "Is your baby resisting sleep in the cot?",
+	"Slot3": "How to help your little one grow up happy"
+
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
