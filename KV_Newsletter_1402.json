@@ -972,23 +972,25 @@
 	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-girls"
 	},
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/babys-first-words",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/baby-development-anxiety",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/safety/toddlers-and-safety"
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/newborn/10-things-all-new-mums-are-guilty-of",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/feeding-and-nutrition/feeding-in-the-first-six-months"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Babys_first_words.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_anxiety.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice_for_keeping_your_little_one_safe.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_truths_mums_with_newborns_are_guilty_of.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Feeding_in_the_first_six_months.jpg"
+
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Baby's first words",
-	"Slot2": "Baby development anxiety",
-	"Slot3": "Advice for keeping your little one safe"
+	"Slot1": "10 truths mums with newborns are guilty of",
+	"Slot2": "Baby development milestones timeline",
+	"Slot3": "Feeding in the first six months"
+
   },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
