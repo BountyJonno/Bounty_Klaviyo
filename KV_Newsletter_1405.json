@@ -33,26 +33,22 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/first-haircut",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/diet-and-nutrition/why-family-meals-matter",
-	"Slot3": "https://www.bounty.com/family/news/whats-been-your-most-challenging-moment-of-parenting"
-
-
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/do-you-miss-these-aspects-of-pregnancy",
+	"Slot2": "http://www.bounty.com/preschool-2-to-4-years/behaviour/19-everyday-things-that-result-in-a-toddler-tantrum",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_babys_first_haircut_What_you_need_to_know.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_family_meals_matter.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/whats_been_your_most_challenging_moment_of_parenting.jpg"
-
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_miss_these_aspects_of_pregnancy.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Everyday_things_that_often_result_in_a_toddler_tantrum.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Your baby's first haircut: What you need to know",
-	"Slot2": "Why family meals matter",
-	"Slot3": "What's been your most challenging moment of parenting?"
-
+	"Slot1": "Do you miss these aspects of pregnancy?",
+	"Slot2": "Everyday things that often result in a toddler tantrum",
+	"Slot3": "Having fun while learning"
 
 	},
 
