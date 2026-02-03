@@ -958,40 +958,40 @@
 	"Pstw78": "http://www.bounty.com/family/lifestyle/relationships/10-super-judgements-parents-hear-from-other-parents"
 	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_inspired_by_music.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Cool_baby_names_that_arent_even_names.jpg"
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_guaranteed_to_shock_grandma.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_meaning_beautiful.jpg"
 
   
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Baby names inspired by music",
-	"BabySlot2": "Cool baby names that aren't even names"
-
-	  
+	"BabySlot1": "Baby names guaranteed to shock grandma",
+	"BabySlot2": "Baby names meaning beautiful"
   },
   "BABY_NAMES_URL": {
-	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/let-the-music-play-and-inspire-baby-names",
-	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/cool-baby-names-that-arent-even-names"
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/10-boys-and-girls-names-sure-to-shock-grandma",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-that-mean-beautiful"
 	},
+	
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/newborn/10-things-all-new-mums-are-guilty-of",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/feeding-and-nutrition/feeding-in-the-first-six-months"
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/fighting-nap-time",
+	"Slot2": "http://www.bounty.com/family/family-dynamics/what-you-learn-in-your-first-year-as-a-parent",
+	"Slot3": "http://www.bounty.com/Home/family/family-dynamics/the-mad-things-all-really-tired-mums-can-relate-to"
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_truths_mums_with_newborns_are_guilty_of.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Feeding_in_the_first_six_months.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_doesnt_my_baby_want_to_nap.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_youll_learn_in_your_first_year_as_a_parent.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Things_only_really_tired_mums_will_relate_to.jpg"
 
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "10 truths mums with newborns are guilty of",
-	"Slot2": "Baby development milestones timeline",
-	"Slot3": "Feeding in the first six months"
+	"Slot1": "Why doesn't my baby want to nap?",
+	"Slot2": "What you'll learn in your first year as a parent",
+	"Slot3": "Things only really tired mums will relate to"
+
 
   },
   "SUBJECT_LINE": {  
