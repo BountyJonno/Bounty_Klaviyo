@@ -33,25 +33,21 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bhj-toddler-colds"
-
-
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance",
+	"Slot2": "http://www.bounty.com/family/childcare/childcare-benefits",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/how-to-help-your-babys-brain-develop"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_many_colds_are_normal_for_children.jpg"
-
-
-
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Childcare_benefits.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_02-News_img_3.jpg"
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Crazy things tired mums do",
-	"Slot2": "Having fun while learning",
-	"Slot3": "How many colds are normal for children?"
+	"Slot1": "Baby development milestones timeline",
+	"Slot2": "Childcare benefits",
+	"Slot3": "How to help your baby's brain develop"
+
 
 	    },
   "SUBJECT_LINE": {  
