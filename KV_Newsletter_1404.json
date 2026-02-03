@@ -25,21 +25,23 @@
 		},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/skincare/cradle-cap",
-	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/top-10-tips-to-beat-a-case-of-baby-brain",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play"
+	"Slot1": "http://www.bounty.com/family/family-fun-and-activities/six-classic-parenting-facebook-faux-pas",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/illness/helping-your-little-one-through-a-fever",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/newborn/birthmarks"
+
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_deal_with_stubborn_cradle_cap.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_tips_to_beat_a_case_of_baby_brain.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cringe-worthy Facebooks posts",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Helping your little one through a fever",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Birthmarks"
+
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "How to deal with stubborn cradle cap",
-	"Slot2": "Top 10 tips to beat a case of baby brain",
-	"Slot3": "Having fun while learning"
+	"Slot1": "Cringe-worthy Facebooks posts",
+	"Slot2": "Helping your little one through a fever",
+	"Slot3": "Birthmarks"
 
 	    },
   "SUBJECT_LINE": {  
