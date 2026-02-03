@@ -965,9 +965,10 @@
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice for keeping your little one safe",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting your baby's nails",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How to deal with stubborn cradle cap"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice_for_keeping_your_little_one_safe.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_deal_with_stubborn_cradle_cap.jpg"
+
 
 	},
   "TRENDING_TITLE": {	
