@@ -959,21 +959,21 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/10-things-only-a-mum-truly-understands",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/your-baby-wont-sleep-in-a-cot-try-this",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/baby-growing-up-happy"
+	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/safety/toddlers-and-safety",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/skincare/cradle-cap"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_02-News_img_1.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Is_your_baby_resisting_sleep_in_the_cot.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_help_your_little_one_grow_up_happy.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice for keeping your little one safe",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting your baby's nails",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How to deal with stubborn cradle cap"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "10 things only a mum can understand",
-	"Slot2": "Is your baby resisting sleep in the cot?",
-	"Slot3": "How to help your little one grow up happy"
+	"Slot1": "Advice for keeping your little one safe",
+	"Slot2": "Cutting your baby's nails",
+	"Slot3": "How to deal with stubborn cradle cap"
 
   },
   "SUBJECT_LINE": {  
