@@ -33,22 +33,20 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/your-babys-milestones-at-a-glance",
-	"Slot2": "http://www.bounty.com/family/childcare/childcare-benefits",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/how-to-help-your-babys-brain-develop"
+	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/your-toddlers-immunisations",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/diet-and-nutrition/why-family-meals-matter",
+	"Slot3": "https://www.bounty.com/family/news/whats-your-funniest-baby-brain-moment"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_milestones_timeline.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Childcare_benefits.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_02-News_img_3.jpg"
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_toddlers_immunisations.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_family_meals_matter.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/whats_your_funniest_baby_brain_moment.jpg"
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Baby development milestones timeline",
-	"Slot2": "Childcare benefits",
-	"Slot3": "How to help your baby's brain develop"
-
-
+	"Slot1": "Your toddler's immunisations",
+	"Slot2": "Why family meals matter",
+	"Slot3": "What's your funniest 'baby brain' moment?"
 	    },
   "SUBJECT_LINE": {  
 	"Prew04": "Your pregnancy journey at 4 weeks",
