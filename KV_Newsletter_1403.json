@@ -959,22 +959,21 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/safety/toddlers-and-safety",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/skincare/cradle-cap"
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/safer-sleep/nearly-half-of-mums-fib-about-co-sleeping-with-baby-survey-finds",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/first-haircut",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddler-development-anxiety"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice_for_keeping_your_little_one_safe.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_deal_with_stubborn_cradle_cap.jpg"
-
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Would_you_fib_about_co_sleeping.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_babys_first_haircut_What_you_need_to_know.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Toddler_development_anxiety.jpg"
 
 	},
-  "TRENDING_TITLE": {	
-	"Slot1": "Advice for keeping your little one safe",
-	"Slot2": "Cutting your baby's nails",
-	"Slot3": "How to deal with stubborn cradle cap"
+	"Slot1": "Would you fib about co-sleeping?",
+	"Slot2": "Your baby's first haircut: What you need to know",
+	"Slot3": "Toddler development anxiety"
+
 
   },
   "SUBJECT_LINE": {  
