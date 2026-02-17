@@ -25,24 +25,24 @@
 		},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-fun-and-activities/six-classic-parenting-facebook-faux-pas",
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/why-you-might-miss-your-bump",
 	"Slot2": "http://www.bounty.com/baby-0-to-12-months/health-and-care/illness/helping-your-little-one-through-a-fever",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/newborn/birthmarks"
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/how-to-help-your-babys-brain-develop"
+
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cringe_worthy_Facebooks_posts.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_miss_your_pregnancy_bump.jpg",
 	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Helping_your_little_one_through_a_fever.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Birthmarks.jpg"
-
-
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_02-News_img_3.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Cringe-worthy Facebooks posts",
+	"Slot1": "Do you miss your pregnancy bump?",
 	"Slot2": "Helping your little one through a fever",
-	"Slot3": "Birthmarks"
+	"Slot3": "How to help your baby's brain develop"
+
 
 	    },
   "SUBJECT_LINE": {  
