@@ -33,22 +33,21 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/do-you-miss-these-aspects-of-pregnancy",
-	"Slot2": "http://www.bounty.com/preschool-2-to-4-years/behaviour/19-everyday-things-that-result-in-a-toddler-tantrum",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play"
+	"Slot1": "http://www.bounty.com/family/family-dynamics/the-little-things-that-really-count",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/kids-say-the-funniest-things",
+	"Slot3": "http://www.bounty.com/Home/toddler-1-to-2-years/development/social-and-emotional-development/why-they-call-it-the-terrible-twos"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_miss_these_aspects_of_pregnancy.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Everyday_things_that_often_result_in_a_toddler_tantrum.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg"
-
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_2.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_1.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_terrible_twos.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Do you miss these aspects of pregnancy?",
-	"Slot2": "Everyday things that often result in a toddler tantrum",
-	"Slot3": "Having fun while learning"
+	"Slot1": "It's the little things of being a parent",
+	"Slot2": "Kids say the funniest things",
+	"Slot3": "The terrible twos..."
 
 	},
 
