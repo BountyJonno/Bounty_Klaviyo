@@ -958,40 +958,36 @@
 	"Pstw78": "http://www.bounty.com/family/lifestyle/relationships/10-super-judgements-parents-hear-from-other-parents"
 	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_guaranteed_to_shock_grandma.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_meaning_beautiful.jpg"
-
-  
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Lucky_baby_names.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Nicknames_that_make_great_first_names.jpg"
+ 
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Baby names guaranteed to shock grandma",
-	"BabySlot2": "Baby names meaning beautiful"
+	"BabySlot1": "Lucky baby names",
+	"BabySlot2": "Nicknames that make great first names"
+
   },
   "BABY_NAMES_URL": {
-	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/10-boys-and-girls-names-sure-to-shock-grandma",
-	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-that-mean-beautiful"
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/lucky-baby-name-ideas",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/nicknames-that-make-great-first-names"
 	},
 	
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/fighting-nap-time",
-	"Slot2": "http://www.bounty.com/family/family-dynamics/what-you-learn-in-your-first-year-as-a-parent",
-	"Slot3": "http://www.bounty.com/Home/family/family-dynamics/the-mad-things-all-really-tired-mums-can-relate-to"
-
+	"Slot1": "http://www.bounty.com/family/family-dynamics/introducing-a-new-baby-to-the-family",
+	"Slot2": "http://www.bounty.com/Home/baby-0-to-12-months/newborn/the-first-weeks/what-to-expect-on-day-1-with-your-new-baby",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_doesnt_my_baby_want_to_nap.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_youll_learn_in_your_first_year_as_a_parent.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Things_only_really_tired_mums_will_relate_to.jpg"
-
-
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Heres_how_to_introduce_your_new_arrival_to_the_family.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Day_one_with_your_baby.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Why doesn't my baby want to nap?",
-	"Slot2": "What you'll learn in your first year as a parent",
-	"Slot3": "Things only really tired mums will relate to"
-
+	"Slot1": "Here's how to introduce your new arrival to the family",
+	"Slot2": "Day one with your new baby...what to expect",
+	"Slot3": "Cutting your baby's nails"
 
   },
   "SUBJECT_LINE": {  
