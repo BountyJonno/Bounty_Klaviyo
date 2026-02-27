@@ -827,41 +827,44 @@
 
 	},
 	
-  "TRENDING_URL": {	
-	"TrendingTri1Slot1": "https://link.bounty.com/LoveToDream",
+   "TRENDING_URL": {	
+	"TrendingTri1Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/a-pregnant-womans-first-thoughts",
 	"TrendingTri1Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-quiz?NL_Trending",
 	"TrendingTri1Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/why-pregnancy-isnt-fun-for-all",
-	"TrendingTri2Slot1": "https://link.bounty.com/LoveToDream",
+	"TrendingTri2Slot1": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
 	"TrendingTri2Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/pregnancy-announcement",
 	"TrendingTri2Slot3": "http://www.bounty.com/pregnancy-and-birth/birth/assisted-delivery/the-lowdown-on-breech-births",
-	"TrendingTri3Slot1": "https://link.bounty.com/LoveToDream",
+	"TrendingTri3Slot1": "http://www.bounty.com/pregnancy-and-birth/birth/in-labour/top-10-tunes-for-labour",
 	"TrendingTri3Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/youre-in-your-third-trimester-when",
-	"TrendingTri3Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/your-9th-month-of-pregnancy"
+	"TrendingTri3Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/your-9th-month-of-pregnancy",
+	"L2D": "https://link.bounty.com/LoveToDream"
 	},
 	
   "TRENDING_IMAGE": {	
-	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_3.jpg",
 	"TrendingTri1Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Am_I_pregnant_Answer_these_questions_to_find_out.png",
 	"TrendingTri1Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_pregnancy_isnt_a_fun_time_for_all.jpg",
-	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
 	"TrendingTri2Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_make_the_right_pregnancy_announcement.jpg",
 	"TrendingTri2Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_lowdown_on_breech_births.jpg",
-	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_perfect_labour_playlist.jpg",
 	"TrendingTri3Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Youre_in_your_third_trimester_when.jpg",
-	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_9th_month_of_pregnancy_Sound_familiar.jpg"
+	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_9th_month_of_pregnancy_Sound_familiar.jpg",
+	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 	},
 
   "TRENDING_TITLE": {	
-	"TrendingTri1Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"TrendingTri1Slot1": "A pregnant woman's first thoughts",
 	"TrendingTri1Slot2": "How to help your baby's brain develop",
 	"TrendingTri1Slot3": "Why pregnancy isn't a fun time for all",
-	"TrendingTri2Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"TrendingTri2Slot1": "Potential health concerns during pregnancy",
 	"TrendingTri2Slot2": "How to make the right pregnancy announcement",
 	"TrendingTri2Slot3": "The lowdown on breech births",
-	"TrendingTri3Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"TrendingTri3Slot1": "Your perfect labour playlist",
 	"TrendingTri3Slot2": "You're in your third trimester when...",
-	"TrendingTri3Slot3": "Your 9th month of pregnancy: Sound familiar?"
+	"TrendingTri3Slot3": "Your 9th month of pregnancy: Sound familiar?",
+	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 	},
   "TRIMESTER_LOOKUP": {	
