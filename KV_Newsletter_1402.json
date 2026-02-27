@@ -973,21 +973,24 @@
 	},
 	
   "TRENDING_URL": {	
-	"Slot1": "https://link.bounty.com/LoveToDream",
+	"Slot1": "http://www.bounty.com/family/family-dynamics/introducing-a-new-baby-to-the-family",
 	"Slot2": "http://www.bounty.com/Home/baby-0-to-12-months/newborn/the-first-weeks/what-to-expect-on-day-1-with-your-new-baby",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails"
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/cutting-your-babys-nails",
+	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Heres_how_to_introduce_your_new_arrival_to_the_family.jpg",
 	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Day_one_with_your_baby.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg"
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cutting_your_babys_nails.jpg",
+	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"Slot1": "Here's how to introduce your new arrival to the family",
 	"Slot2": "Day one with your new baby...what to expect",
-	"Slot3": "Cutting your baby's nails"
+	"Slot3": "Cutting your baby's nails",
+	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
   },
   "SUBJECT_LINE": {  
