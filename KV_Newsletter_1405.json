@@ -34,22 +34,22 @@
 
   "TRENDING_URL": {	
 	"Slot1": "http://www.bounty.com/family/family-dynamics/the-little-things-that-really-count",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/kids-say-the-funniest-things",
-	"Slot3": "http://www.bounty.com/Home/toddler-1-to-2-years/development/social-and-emotional-development/why-they-call-it-the-terrible-twos",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddlers-learning-through-play",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/boys-and-girls-brains",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
 	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_2.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_1.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_terrible_twos.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Having_fun_while_learning.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Brain_development_Why_are_boys_and_girls_different.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 	},
   "TRENDING_TITLE": {	
 	"Slot1": "It's the little things of being a parent",
-	"Slot2": "Kids say the funniest things",
-	"Slot3": "The terrible twos...",
+	"Slot2": "Having fun while learning",
+	"Slot3": "Brain development: Why are boys' and girls' different?",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 
