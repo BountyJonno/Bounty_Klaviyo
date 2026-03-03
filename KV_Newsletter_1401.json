@@ -828,42 +828,42 @@
 	},
 	
    "TRENDING_URL": {	
-	"TrendingTri1Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/a-pregnant-womans-first-thoughts",
-	"TrendingTri1Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-quiz?NL_Trending",
-	"TrendingTri1Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/why-pregnancy-isnt-fun-for-all",
-	"TrendingTri2Slot1": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
-	"TrendingTri2Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/pregnancy-announcement",
-	"TrendingTri2Slot3": "http://www.bounty.com/pregnancy-and-birth/birth/assisted-delivery/the-lowdown-on-breech-births",
-	"TrendingTri3Slot1": "http://www.bounty.com/pregnancy-and-birth/birth/in-labour/top-10-tunes-for-labour",
-	"TrendingTri3Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/youre-in-your-third-trimester-when",
-	"TrendingTri3Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/your-9th-month-of-pregnancy",
+	"TrendingTri1Slot1": "https://link.bounty.com/LoveToDream",
+	"TrendingTri1Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
+	"TrendingTri1Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-to-do-list",
+	"TrendingTri2Slot1": "https://link.bounty.com/LoveToDream",
+	"TrendingTri2Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/why-pregnancy-isnt-fun-for-all",
+	"TrendingTri2Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/baby-shower-ideas",
+	"TrendingTri3Slot1": "https://link.bounty.com/LoveToDream",
+	"TrendingTri3Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/now-i-have-a-big-pregnancy-bump-i-cant",
+	"TrendingTri3Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/vitamin-d-supplements",
 	"L2D": "https://link.bounty.com/LoveToDream"
 	},
 	
   "TRENDING_IMAGE": {	
-	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_3.jpg",
-	"TrendingTri1Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Am_I_pregnant_Answer_these_questions_to_find_out.png",
-	"TrendingTri1Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_pregnancy_isnt_a_fun_time_for_all.jpg",
-	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
-	"TrendingTri2Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_make_the_right_pregnancy_announcement.jpg",
-	"TrendingTri2Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_lowdown_on_breech_births.jpg",
-	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_perfect_labour_playlist.jpg",
-	"TrendingTri3Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Youre_in_your_third_trimester_when.jpg",
-	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_9th_month_of_pregnancy_Sound_familiar.jpg",
+	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"TrendingTri1Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_no_one_tells_you_about_the_first_12_weeks_of_pregnancy.jpg",
+	"TrendingTri1Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_pregnancy_to_do_list.png",
+	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"TrendingTri2Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_pregnancy_isnt_a_fun_time_for_all.jpg",
+	"TrendingTri2Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Need_some_baby_shower_inspiration.jpg",
+	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
+	"TrendingTri3Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Now_I_have_a_big_bump_I_cant.jpg",
+	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_Vitamin_D_is_important_for_everyone.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 	},
 
   "TRENDING_TITLE": {	
-	"TrendingTri1Slot1": "A pregnant woman's first thoughts",
-	"TrendingTri1Slot2": "How to help your baby's brain develop",
-	"TrendingTri1Slot3": "Why pregnancy isn't a fun time for all",
-	"TrendingTri2Slot1": "Potential health concerns during pregnancy",
-	"TrendingTri2Slot2": "How to make the right pregnancy announcement",
-	"TrendingTri2Slot3": "The lowdown on breech births",
-	"TrendingTri3Slot1": "Your perfect labour playlist",
-	"TrendingTri3Slot2": "You're in your third trimester when...",
-	"TrendingTri3Slot3": "Your 9th month of pregnancy: Sound familiar?",
+	"TrendingTri1Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"TrendingTri1Slot2": "What no one tells you about the first 12 weeks of pregnancy",
+	"TrendingTri1Slot3": "Your pregnancy to do list",
+	"TrendingTri2Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"TrendingTri2Slot2": "Why pregnancy isn't a fun time for all",
+	"TrendingTri2Slot3": "Need some baby shower inspiration?",
+	"TrendingTri3Slot1": "The Baby Sleep Essential Trusted by Midwives",
+	"TrendingTri3Slot2": "Now I have a big bump I can't...",
+	"TrendingTri3Slot3": "Why Vitamin D is important for everyone",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 	},
@@ -907,17 +907,16 @@
 	"Prew40": "Tri3"
   	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_meaning_beautiful.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Baby_names_meaning_hope.jpg"
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_boys.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_girls.jpg"
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Baby names meaning beautiful",
-	"BabySlot2": "Baby names meaning hope"
-	  
+	"BabySlot1": "Unique and unusual baby names for boys",
+	"BabySlot2": "Unique and unusual baby names for girls"
   },
   "BABY_NAMES_URL": {
-"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-that-mean-beautiful",
-"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/baby-name-meanings/baby-names-that-mean-hope"
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-boys",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-girls"
   },
   "ASK_A_MIDWIFE": {  
 	"AskMidwifeTitle": "Ask a Midwife",
