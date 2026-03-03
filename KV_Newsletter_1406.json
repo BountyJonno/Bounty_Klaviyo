@@ -34,21 +34,21 @@
 
   "TRENDING_URL": {	
 	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/your-toddlers-immunisations",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/diet-and-nutrition/why-family-meals-matter",
-	"Slot3": "https://www.bounty.com/family/news/whats-your-funniest-baby-brain-moment",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/baby-growing-up-happy",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/kids-say-the-funniest-things",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
 	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_toddlers_immunisations.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_family_meals_matter.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/whats_your_funniest_baby_brain_moment.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_help_your_little_one_grow_up_happy.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_1.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 	},
   "TRENDING_TITLE": {	
 	"Slot1": "Your toddler's immunisations",
-	"Slot2": "Why family meals matter",
-	"Slot3": "What's your funniest 'baby brain' moment?",
+	"Slot2": "How to help your little one grow up happy",
+	"Slot3": "Kids say the funniest things",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 	    },
