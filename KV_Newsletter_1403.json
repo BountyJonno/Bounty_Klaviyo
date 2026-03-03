@@ -960,21 +960,21 @@
 
   "TRENDING_URL": {	
 	"Slot1": "http://www.bounty.com/pregnancy-and-birth/safer-sleep/nearly-half-of-mums-fib-about-co-sleeping-with-baby-survey-finds",
-	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/first-haircut",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/development-stages/toddler-development-anxiety",
+	"Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/top-10-tips-to-beat-a-case-of-baby-brain",
+	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/baby-development-anxiety",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
 	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Would_you_fib_about_co_sleeping.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_babys_first_haircut_What_you_need_to_know.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Toddler_development_anxiety.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_tips_to_beat_a_case_of_baby_brain.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_anxiety.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 	},
   "TRENDING_TITLE": {	
 	"Slot1": "Would you fib about co-sleeping?",
-	"Slot2": "Your baby's first haircut: What you need to know",
-	"Slot3": "Toddler development anxiety",
+	"Slot2": "Top 10 tips to beat a case of baby brain",
+	"Slot3": "Baby development anxiety",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
   },
