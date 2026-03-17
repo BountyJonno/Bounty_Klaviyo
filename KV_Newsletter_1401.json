@@ -828,42 +828,41 @@
 	},
 	
    "TRENDING_URL": {	
-	"TrendingTri1Slot1": "https://link.bounty.com/LoveToDream",
-	"TrendingTri1Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/10-things-no-one-tells-you-about-first-12-weeks",
-	"TrendingTri1Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-to-do-list",
-	"TrendingTri2Slot1": "https://link.bounty.com/LoveToDream",
-	"TrendingTri2Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/why-pregnancy-isnt-fun-for-all",
-	"TrendingTri2Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/baby-shower-ideas",
-	"TrendingTri3Slot1": "https://link.bounty.com/LoveToDream",
-	"TrendingTri3Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/now-i-have-a-big-pregnancy-bump-i-cant",
-	"TrendingTri3Slot3": "http://www.bounty.com/baby-0-to-12-months/health-and-care/vitamin-d-supplements",
+	"TrendingTri1Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/pregnancy-other-conditions/cramping-in-early-pregnancy",
+	"TrendingTri1Slot2": "http://www.bounty.com/pregnancy-and-birth/pregnancy/our-top-10-funniest-pregnancy-googles",
+	"TrendingTri1Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/early-pregnancy/pregnancy-quiz?NL_Trending",
+	"TrendingTri2Slot1": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/common-health-problems",
+	"TrendingTri2Slot2": "http://www.bounty.com/pregnancy-and-birth/diet-and-health-in-pregnancy/health-and-wellness/positions-to-try-for-pregnancy-sex",
+	"TrendingTri2Slot3": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/pregnancy-myths-busted",
+	"TrendingTri3Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/baby-shower-ideas",
+	"TrendingTri3Slot2": "http://www.bounty.com/Home/baby-0-to-12-months/newborn/the-first-weeks/what-to-expect-on-day-1-with-your-new-baby",
+	"TrendingTri3Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/your-9th-month-of-pregnancy",
 	"L2D": "https://link.bounty.com/LoveToDream"
 	},
 	
   "TRENDING_IMAGE": {	
-	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
-	"TrendingTri1Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/What_no_one_tells_you_about_the_first_12_weeks_of_pregnancy.jpg",
-	"TrendingTri1Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_pregnancy_to_do_list.png",
-	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
-	"TrendingTri2Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_pregnancy_isnt_a_fun_time_for_all.jpg",
-	"TrendingTri2Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Need_some_baby_shower_inspiration.jpg",
-	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg",
-	"TrendingTri3Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Now_I_have_a_big_bump_I_cant.jpg",
-	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Why_Vitamin_D_is_important_for_everyone.jpg",
+	"TrendingTri1Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Cramping_Should_I_worry.jpg",
+	"TrendingTri1Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Some_of_the_funniest_pregnancy_Googles.jpg",
+	"TrendingTri1Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Am_I_pregnant_Answer_these_questions_to_find_out.png",
+	"TrendingTri2Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Potential_health_concerns_during_pregnancy.jpg",
+	"TrendingTri2Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Pregnancy_sex_position.jpg",
+	"TrendingTri2Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Pregnancy_myths_busted.jpg",
+	"TrendingTri3Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Need_some_baby_shower_inspiration.jpg",
+	"TrendingTri3Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Day_one_with_your_baby.jpg",
+	"TrendingTri3Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Your_9th_month_of_pregnancy_Sound_familiar.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
-
 	},
 
   "TRENDING_TITLE": {	
-	"TrendingTri1Slot1": "The Baby Sleep Essential Trusted by Midwives",
-	"TrendingTri1Slot2": "What no one tells you about the first 12 weeks of pregnancy",
-	"TrendingTri1Slot3": "Your pregnancy to do list",
-	"TrendingTri2Slot1": "The Baby Sleep Essential Trusted by Midwives",
-	"TrendingTri2Slot2": "Why pregnancy isn't a fun time for all",
-	"TrendingTri2Slot3": "Need some baby shower inspiration?",
-	"TrendingTri3Slot1": "The Baby Sleep Essential Trusted by Midwives",
-	"TrendingTri3Slot2": "Now I have a big bump I can't...",
-	"TrendingTri3Slot3": "Why Vitamin D is important for everyone",
+	"TrendingTri1Slot1": "Cramping? Should I worry?",
+	"TrendingTri1Slot2": "Some of the funniest pregnancy Googles",
+	"TrendingTri1Slot3": "How to help your baby's brain develop",
+	"TrendingTri2Slot1": "Potential health concerns during pregnancy",
+	"TrendingTri2Slot2": "Pregnancy sex position",
+	"TrendingTri2Slot3": "Pregnancy myths busted",
+	"TrendingTri3Slot1": "Need some baby shower inspiration?",
+	"TrendingTri3Slot2": "Day one with your new baby...what to expect",
+	"TrendingTri3Slot3": "Your 9th month of pregnancy: Sound familiar?",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 	},
@@ -907,16 +906,16 @@
 	"Prew40": "Tri3"
   	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_boys.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_girls.jpg"
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Top_30_cheeky_baby_names.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Find_the_right_middle_name.jpg"
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Unique and unusual baby names for boys",
-	"BabySlot2": "Unique and unusual baby names for girls"
+	"BabySlot1": "Top 30 cheeky baby names",
+	"BabySlot2": "Find the right middle name"
   },
   "BABY_NAMES_URL": {
-	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-boys",
-	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-girls"
+	"BabySlot1": "http://www.bounty.com/family/family-dynamics/top-30-cheeky-baby-nicknames",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/top-baby-names/baby-names-news-and-trends/baby-names-destined-for-the-middle"
   },
   "ASK_A_MIDWIFE": {  
 	"AskMidwifeTitle": "Ask a Midwife",
