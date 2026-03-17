@@ -25,26 +25,26 @@
 		},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/why-you-might-miss-your-bump",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/safety/toddlers-and-safety",
-	"Slot3": "http://www.bounty.com/baby-0-to-12-months/development/baby-development-anxiety",
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/development/milestones-and-future-success",
+	"Slot2": "http://www.bounty.com/baby-0-to-12-months/development/boys-and-girls-brains",
+	"Slot3": "http://www.bounty.com/family/family-dynamics/5-crazy-things-parents-do-when-sleep-deprived",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Do_you_miss_your_pregnancy_bump.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Advice_for_keeping_your_little_one_safe.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Baby_development_anxiety.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Are_baby_milestones_an_indication_of_how_clever_theyll_be.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Brain_development_Why_are_boys_and_girls_different.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_16-News_img_1.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Do you miss your pregnancy bump?",
-	"Slot2": "Advice for keeping your little one safe",
-	"Slot3": "Baby development anxiety",
+	"Slot1": "Are baby milestones an indication of how clever they'll be?",
+	"Slot2": "Brain development: Why are boys' and girls' different?",
+	"Slot3": "Crazy things tired mums do",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 
