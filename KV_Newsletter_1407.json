@@ -34,22 +34,22 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/5-unexpected-things-that-make-parenting-great?NL_Trending",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bed-wetting",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bhj-toddler-colds",
+	"Slot1": "http://www.bounty.com/family/family-dynamics/10-things-only-a-mum-truly-understands",
+	"Slot2": "http://www.bounty.com/pregnancy-and-birth/preparing-for-your-new-arrival/parenting-tests-that-will-test-your-patience",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/kids-say-the-funniest-things",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/The_little_things_that_make_parenting_great.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Overcoming_bed_wetting2.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_many_colds_are_normal_for_children.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_02-News_img_1.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_3.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_1.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "The little things that make parenting great",
-	"Slot2": "Overcoming bed wetting",
-	"Slot3": "How many colds are normal for children?",
+	"Slot1": "10 things only a mum can understand",
+	"Slot2": "Parenting tests that will try your patience",
+	"Slot3": "Kids say the funniest things",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
  },
