@@ -958,36 +958,36 @@
 	"Pstw78": "http://www.bounty.com/family/lifestyle/relationships/10-super-judgements-parents-hear-from-other-parents"
 	},
   "BABY_NAMES_IMAGE": {	  
-	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Disney_inspired_baby_names.jpg",
-	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Cute_baby_names.jpg"
+	"BabySlot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_boys.jpg",
+	"BabySlot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Baby_Names/images/Unique_and_unusual_baby_names_for_girls.jpg"
   },
   "BABY_NAMES_TITLE": {	  
-	"BabySlot1": "Disney inspired baby names",
-	"BabySlot2": "Cute baby names"
+	"BabySlot1": "Unique and unusual baby names for boys",
+	"BabySlot2": "Unique and unusual baby names for girls"
   },
   "BABY_NAMES_URL": {
-	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/top-baby-names/top-10-boys-and-girls-names-inspired-by-disney",
-	"BabySlot2": "https://www.bounty.com/pregnancy-and-birth/baby-names/top-baby-names/cute-baby-names"
+	"BabySlot1": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-boys",
+	"BabySlot2": "http://www.bounty.com/pregnancy-and-birth/baby-names/unique-and-unusual-baby-names/unique-and-unusual-baby-names-for-girls"
 	},
 	
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/family-dynamics/introducing-a-new-baby-to-the-family",
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/sleep-and-crying/10-ways-to-help-your-baby-settle-to-sleep",
 	"Slot2": "http://www.bounty.com/baby-0-to-12-months/newborn/10-things-all-new-mums-are-guilty-of",
-	"Slot3": "http://www.bounty.com/family/travel/top-travel-tips/baby-travel-safety",
+	"Slot3": "http://www.bounty.com/pregnancy-and-birth/pregnancy/top-10-tips-to-beat-a-case-of-baby-brain",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Heres_how_to_introduce_your_new_arrival_to_the_family.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_ways_to_help_your_baby_settle_to_sleep.jpg",
 	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_truths_mums_with_newborns_are_guilty_of.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Keeping_your_baby_safe_abroad.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_tips_to_beat_a_case_of_baby_brain.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "Here's how to introduce your new arrival to the family",
+	"Slot1": "10 ways to help your baby settle to sleep",
 	"Slot2": "10 truths mums with newborns are guilty of",
-	"Slot3": "Keeping your baby safe abroad",
+	"Slot3": "Top 10 tips to beat a case of baby brain",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
   },
