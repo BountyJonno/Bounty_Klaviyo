@@ -33,22 +33,22 @@
   },
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bhj-toddler-colds",
-	"Slot2": "http://www.bounty.com/preschool-2-to-4-years/behaviour/19-everyday-things-that-result-in-a-toddler-tantrum",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bed-wetting",
+	"Slot1": "http://www.bounty.com/baby-0-to-12-months/health-and-care/illness/the-signs-and-symptoms-of-meningitis-in-babies-and-toddlers",
+	"Slot2": "http://www.bounty.com/Home/family/family-dynamics/five-tips-to-help-you-deal-with-a-messy-home",
+	"Slot3": "http://www.bounty.com/family/family-dynamics/ready-for-a-second-baby",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_many_colds_are_normal_for_children.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Everyday_things_that_often_result_in_a_toddler_tantrum.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Overcoming_bed_wetting2.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Signs_and_symptoms_of_meningitis_in_babies_and_toddlers.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Ways_to_help_you_accept_a_messy_home.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Things_to_expect_when_you_have_another_baby.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "How many colds are normal for children?",
-	"Slot2": "Everyday things that often result in a toddler tantrum",
-	"Slot3": "Overcoming bed wetting",
+	"Slot1": "Signs and symptoms of meningitis in babies and toddlers",
+	"Slot2": "Ways to help you accept a messy home",
+	"Slot3": "Things to expect when you have another baby",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 	    },
