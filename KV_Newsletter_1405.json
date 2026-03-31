@@ -33,23 +33,23 @@
 	},
 
   "TRENDING_URL": {	
-	"Slot1": "http://www.bounty.com/family/house-and-home/babies-and-pets/bhj-dog-feature",
-	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/the-tantrum-tamers-you-need-to-know",
-	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/night-terrors-in-children",
+	"Slot1": "http://www.bounty.com/pregnancy-and-birth/pregnancy/second-pregnancy-rules",
+	"Slot2": "http://www.bounty.com/toddler-1-to-2-years/development/social-and-emotional-development/kids-say-the-funniest-things",
+	"Slot3": "http://www.bounty.com/toddler-1-to-2-years/health-and-care/bed-wetting",
 	"L2D": "https://link.bounty.com/LoveToDream"
 
 	},
   "TRENDING_IMAGE": {	
-	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/How_to_keep_babies_and_toddlers_safe_around_dogs.jpg",
-	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Tantrum_tamers.jpg",
-	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Night_terrors_in_children.jpg",
+	"Slot1": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/10_rules_you_NEED_to_know_before_entering_pregnancy_number_two.jpg",
+	"Slot2": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/2017_05_09-News_img_1.jpg",
+	"Slot3": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Overcoming_bed_wetting2.jpg",
 	"L2D": "https://bountyjonno.github.io/Bounty_Klaviyo/Trending_this_Week/images/Love_to_Dream_Trending.jpg"
 
 	},
   "TRENDING_TITLE": {	
-	"Slot1": "How to keep babies and toddlers safe around dogs",
-	"Slot2": "Tantrum tamers",
-	"Slot3": "Night terrors in children",
+	"Slot1": "10 rules you NEED to know before entering pregnancy number two",
+	"Slot2": "Kids say the funniest things",
+	"Slot3": "Overcoming bed wetting",
 	"L2D": "The Baby Sleep Essential Trusted by Midwives"
 
 	},
@@ -72,19 +72,19 @@
 
 	},
   "POTTY_IMAGE": {	
-"Pstm24": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm25": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm26": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm27": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm28": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm29": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm30": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
-"Pstm31": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
-"Pstm32": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
-"Pstm33": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
-"Pstm34": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
-"Pstm35": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
-"Pstm36": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg"
+	"Pstm24": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm25": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm26": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm27": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm28": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm29": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm30": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/Tips_to_encourage_sitting_on_the_potty.jpg",
+	"Pstm31": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm32": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm33": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm34": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm35": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg",
+	"Pstm36": "https://bountyjonno.github.io/Bounty_Klaviyo/potty_training/images/How_to_deal_with_Potty_training_set_backs.jpg"
 
 	},
   "POTTY_TITLE": {	
