@@ -237,7 +237,8 @@
 		"Prew38":"Your baby has a firm grip and is building fat to help control their temperature after birth. Most of the vernix and soft hair on their skin has gone.",
 		"Prew39":"Your baby is fully developed and ready to be born. Their brain is still growing quickly, and their lungs are making more surfactant to help them take their first breath.",
 		"Prew40":"Your baby is ready to meet you. Only around 1 in 20 babies arrive on their due date, so don't worry if yours takes a little longer."
-	},
+	}	
+  },
   "baby_stats": {
 	"weight": {
 		"Prew04":"<1g",
