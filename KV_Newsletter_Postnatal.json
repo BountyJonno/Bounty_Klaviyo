@@ -1,7 +1,7 @@
 {
-"Header": {
+"header": {
 	"1401": "https://d3k81ch9hvuctc.cloudfront.net/company/RLdHqB/images/c0371b99-61d1-4945-87a3-80585314efa8.jpeg",
-	"Header_Copy": {
+	"header_copy": {
 		"Pstw01":"welcome to the world, little one.",
 		"Pstw02":"two weeks of getting to know each other.",
 		"Pstw03":"finding your rhythm.",
@@ -123,7 +123,7 @@
 		"Pstm59":"fun for the whole family.",
 		"Pstm60":"five years. Look how far you've come."
     },
-	"Image_footprints": {
+	"image_footprints": {
 		"Pstw01":"https://cdn.klaviyomail.com/company/RLdHqB/images/062cfbd4-b009-4f44-becd-91daf532a9dc.png",
 		"Pstw02":"https://cdn.klaviyomail.com/company/RLdHqB/images/2b9a72b3-7919-47b1-a9c5-c0b794d1e6bc.png",
 		"Pstw03":"https://cdn.klaviyomail.com/company/RLdHqB/images/b1581c85-3827-433e-a938-d6b38398a444.png",
@@ -246,8 +246,8 @@
 		"Pstm60":"https://cdn.klaviyomail.com/company/RLdHqB/images/336291ad-ad64-495f-9188-73f688c00c70.png"
 	}
   },
-"Your_Baby_this_Week": {
-	"Fun_fact_title": {
+"your_baby_this_week": {
+	"fun_fact_title": {
 		"Pstw01":"Newborns see best up close",
 		"Pstw02":"Back to birth weight",
 		"Pstw03":"Growing fast",
@@ -369,7 +369,7 @@
 		"Pstm59":"Family time",
 		"Pstm60":"Ready for the world"
 	},
-	"Body_Copy": {
+	"body_copy": {
 		"Pstw01":"Your baby can see most clearly at about 20 to 30cm, which is roughly the distance to your face when you hold them to feed. That's why they'll study you so closely.",
 		"Pstw02":"Most babies lose a little weight in the first few days, then get back to their birth weight by around two weeks. Your midwife or health visitor will keep an eye on this for you.",
 		"Pstw03":"Babies often have a growth spurt at around three weeks. You might notice your baby feeding more often and being a bit more unsettled for a few days. It's normal and it passes.",
@@ -491,7 +491,7 @@
 		"Pstm59":"Spending time together as a family helps children feel secure and loved.",
 		"Pstm60":"Your child has grown from a tiny baby into a curious, confident little person. Five years of growing, learning and exploring."
 	},
-	"CTA_Link": {
+	"CTA_link": {
 		"Pstw01":"https://link.bounty.com/today-screen",
 		"Pstw02":"https://link.bounty.com/today-screen",
 		"Pstw03":"https://link.bounty.com/today-screen",
@@ -613,7 +613,7 @@
 		"Pstm59":"https://link.bounty.com/today-screen",
 		"Pstm60":"https://link.bounty.com/today-screen"
 	},
-	"Age": {
+	"age": {
 		"Pstw01":"1 week",
 		"Pstw02":"2 weeks",
 		"Pstw03":"3 weeks",
@@ -735,7 +735,7 @@
 		"Pstm59":"4 years 11 months",
 		"Pstm60":"5 years"	
 	},
-	"Milestone_to_watch": {
+	"milestone_to_watch": {
 		"Pstw01":"Rooting reflex",
 		"Pstw02":"Following your face",
 		"Pstw03":"Lifting head briefly",
@@ -857,7 +857,7 @@
 		"Pstm59":"Playing games",
 		"Pstm60":"Starting school"	
 	},
-	"Coming_up": {
+	"coming_up": {
 		"Pstw01":"Heel prick test",
 		"Pstw02":"Health visitor visit",
 		"Pstw03":"6 to 8 week check",
@@ -981,8 +981,8 @@
 	
 	}
 	},
-"This_Weeks_Focus": {
-	"Title": {
+"this_weeks_focus": {
+	"title": {
 		"Pstw01":"Getting feeding off to a good start",
 		"Pstw02":"Meeting your health visitor",
 		"Pstw03":"Cluster feeding explained",
@@ -1104,7 +1104,7 @@
 		"Pstm59":"Family fun ideas",
 		"Pstm60":"Celebrating five years"
 		},
-	"Body_copy": {
+	"body_copy": {
 		"Pstw01":"Newborns feed little and often, usually 8 to 12 times in 24 hours. Whether you're breastfeeding, formula feeding or doing both, your midwife can help with positioning and latch. Wet and dirty nappies are a good sign your baby is getting enough.",
 		"Pstw02":"Your health visitor usually visits between 10 and 14 days after birth. They'll weigh your baby, talk about feeding and sleep and check how you're doing. It's a good time to ask anything at all, nothing is too small.",
 		"Pstw03":"Some evenings your baby may want to feed almost constantly. This is called cluster feeding and it's especially common during growth spurts. It doesn't mean you don't have enough milk, it's how babies build up your supply.",
@@ -1226,7 +1226,7 @@
 		"Pstm59":"Try board games, movie nights, baking or a walk together. Simple activities are often the most memorable.",
 		"Pstm60":"Look back at photos, talk about what they've learned and celebrate how far they've come. Ask what they're looking forward to next."
 		},
-	"Image": {
+	"image": {
 		"Pstw01":"https://cdn.klaviyomail.com/company/RLdHqB/images/8fbb0b88-fb12-4df3-96c2-a6ab7a98eefa.png",
 		"Pstw02":"https://cdn.klaviyomail.com/company/RLdHqB/images/29a07b05-7461-47a5-8e04-9a215909eaf3.png",
 		"Pstw03":"https://cdn.klaviyomail.com/company/RLdHqB/images/c9371f9b-81d8-4d6d-876a-6a1c5d7d3d41.png",
@@ -1348,7 +1348,7 @@
 		"Pstm59":"https://cdn.klaviyomail.com/company/RLdHqB/images/8d10e3cc-909e-4148-8e56-bae22c89eecb.png",
 		"Pstm60":"https://cdn.klaviyomail.com/company/RLdHqB/images/233a8936-e42d-4e0a-9a2b-f22f79b70ff3.png"
 		},
-	"CTA_Link": {
+	"CTA_link": {
 		"Pstw01":"https://link.bounty.com/weekly-articles",
 		"Pstw02":"https://link.bounty.com/weekly-articles",
 		"Pstw03":"https://link.bounty.com/weekly-articles",
@@ -1471,8 +1471,8 @@
 		"Pstm60":"https://link.bounty.com/weekly-articles"
 		}
 	},
-"Try_This_Week": {
-	"Tip_1": {
+"try_this_week": {
+	"tip_1": {
 		"Pstw01":"Feed on demand",
 		"Pstw02":"Write questions down",
 		"Pstw03":"Get comfy for evenings",
@@ -1594,7 +1594,7 @@
 		"Pstm59":"Board games",
 		"Pstm60":"Look at photos"
 		},	
-	"Tip_2": {
+	"tip_2": {
 		"Pstw01":"Skin-to-skin cuddles",
 		"Pstw02":"Have the red book ready",
 		"Pstw03":"Keep water nearby",
@@ -1716,7 +1716,7 @@
 		"Pstm59":"Movie night",
 		"Pstm60":"Talk about memories"
 		},
-	"Tip_3": {
+	"tip_3": {
 		"Pstw01":"Count wet nappies",
 		"Pstw02":"Ask about local groups",
 		"Pstw03":"Line up a box set",
@@ -1838,7 +1838,7 @@
 		"Pstm59":"Baking",
 		"Pstm60":"Celebrate"		
 		},
-	"Tip_4": {
+	"tip_4": {
 		"Pstw01":"Ask for feeding help",
 		"Pstw02":"Mention how you feel",
 		"Pstw03":"Share the load",
@@ -1961,8 +1961,8 @@
 		"Pstm60":"Plan what's next"
 		}
 	},
-"How_Are_You_Doing": {
-	"Title": {
+"how_are_you_doing": {
+	"title": {
 		"Pstw01":"Be gentle with yourself",
 		"Pstw02":"Baby blues or something more?",
 		"Pstw03":"Your body is still healing",
@@ -2084,7 +2084,7 @@
 		"Pstm59":"Making memories",
 		"Pstm60":"Look how far you've come"
 		},
-	"Body_copy": {
+	"body_copy": {
 		"Pstw01":"Bleeding after birth, sore stitches and feeling tearful around day three to five are all common. Rest as much as you can and let others take care of the house. Tell your midwife if anything worries you.",
 		"Pstw02":"Feeling weepy and overwhelmed in the first couple of weeks is really common and usually passes. If low feelings last more than two weeks or get worse, talk to your health visitor or GP.",
 		"Pstw03":"Your womb is shrinking back and bleeding should be getting lighter. If bleeding gets heavier, smells unusual or you have a fever, contact your midwife or GP straight away.",
@@ -2206,7 +2206,7 @@
 		"Pstm59":"It's the small, everyday moments that children remember.",
 		"Pstm60":"Five years of parenting is an incredible achievement. Thank you for letting us be part of the journey."		
 		},
-	"Chip_1": {
+	"chip_1": {
 		"Pstw01":"Rest when baby sleeps",
 		"Pstw02":"Talk to someone",
 		"Pstw03":"Gentle walks only",
@@ -2328,7 +2328,7 @@
 		"Pstm59":"Enjoy it",
 		"Pstm60":"Be proud"		
 		},
-	"Chip_2": {
+	"chip_2": {
 		"Pstw01":"Accept every offer of help",
 		"Pstw02":"It's okay to struggle",
 		"Pstw03":"Keep hydrated",
