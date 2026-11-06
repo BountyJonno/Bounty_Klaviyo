@@ -2452,7 +2452,7 @@
 		}
 	},
 "email": {
-	"subject line": {
+	"subject_line": {
 		"Pstw01":"{{ first_name|default:'' }}, your baby’s first week 💛",
 		"Pstw02":"{{ first_name|default:'' }}, week 2 already… you’ve got this 🤍",
 		"Pstw03":"{{ first_name|default:'' }}, week 3 (things might feel easier) 💫",
@@ -2574,7 +2574,7 @@
 		"Pstm59":"{{ first_name|default:'' }}, fun for the whole family 💛 4 years",
 		"Pstm60":"{{ first_name|default:'' }}, five years… look how far you’ve come 💫"	
 		},
-	"preview text": {
+	"preview_text": {
 		"Pstw01":"Feeding, sleeping, nappies and you: a gentle guide to the first few days.",
 		"Pstw02":"Your health visitor is coming, and your baby may be back to birth weight.",
 		"Pstw03":"Growth spurts, cluster feeding and why your baby suddenly seems hungrier.",
